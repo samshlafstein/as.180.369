@@ -1,4 +1,5 @@
 20240913-for-20240916 To Do List:
+- [ ] remember to turn on AI Summary for Class Zoom recording
 - [ ]EBM By 09/15: email students asking them to sign up for the NASA webinar if they haven't already
 - [ ]EBM By 09/16: discuss w/ CC that Paperpile actually costs $35
 
