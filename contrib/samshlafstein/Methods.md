@@ -5,14 +5,12 @@ Fixed Effects Regression Model
 
 The fixed effects regression model I use to analyze the relationship between electricity demand and climatic variables (HDD and CDD) is specified as follows:
 
-\[
-\text{ElectricityDemand}_{it} = \alpha + \beta_1 \text{HDD}_{it} + \beta_2 \text{CDD}_{it} + \beta_3 \text{Population}_{it} + \beta_4 \text{GDP}_{it} + \gamma_i + \delta_t + \epsilon_{it}
-\]
+ElectricityDemand_it = α + β_1 * HDD_it + β_2 * CDD_it + β_3 * Population_it + β_4 * GDP_it + γ_i + δ_t + ε_it
 
 Where:
-- \(\text{ElectricityDemand}_{it}\) is the electricity demand for region \(i\) at time \(t\),
-- \(\text{HDD}_{it}\) and \(\text{CDD}_{it}\) represent heating and cooling degree days,
-- \(\text{Population}_{it}\) and \(\text{GDP}_{it}\) are control variables for population size and economic activity,
-- \(\gamma_i\) is the region-specific fixed effect, controlling for unobserved differences across regions,
-- \(\delta_t\) is the time-specific fixed effect, controlling for unobserved time-related factors, and
-- \(\epsilon_{it}\) is the error term.
+- `ElectricityDemand_it` is the electricity demand for region \(i\) at time \(t\),
+- `HDD_it` and `CDD_it` represent heating and cooling degree days,
+- `Population_it` and `GDP_it` are control variables for population size and economic activity,
+- `γ_i` is the region-specific fixed effect, controlling for unobserved differences across regions,
+- `δ_t` is the time-specific fixed effect, controlling for unobserved time-related factors,
+- `ε_it` is the error term.
