@@ -1,6 +1,6 @@
 ### Results
 
-This analysis utilized a fixed-effects regression model to examine electricity demand in Texas from 1950 to 1980 and subsequently tested the model's predictive accuracy using data from 2021 to 2023. The findings shed light on the model's capacity to elucidate the relationships among climatic variables, socio-economic factors, electricity trading, and evolving electricity demand.
+This analysis employed a fixed-effects regression model to study electricity demand in Texas from 1950 to 1980. It then tested the model's predictive accuracy using data from 2021 to 2023. The findings provide insight into the model's ability to clarify the relationships among climatic variables, socio-economic factors, electricity trading, and changing electricity demand.
 
 #### Model Training (1950-1980)
 
