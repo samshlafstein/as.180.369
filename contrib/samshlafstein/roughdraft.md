@@ -78,6 +78,6 @@ The results demonstrate that the Random Forest model's prediction for 2022 was a
 
 - Considine, Timothy J. (2001). *The Impacts of Weather Variations on Energy Demand and Carbon Emissions*. Social Science Research Network. [No DOI available]
 
-- **Parhizkar, A., Ashouri, M., Ahmadi, G., & Saeed, S. (2021).** *Evaluation and improvement of energy consumption prediction models using principal component analysis based feature reduction*. *Energy Reports*, 7, 239-248. https://doi.org/10.1016/j.egyr.2021.07.086
+- Parhizkar, A., Ashouri, M., Ahmadi, G., & Saeed, S. (2021).** *Evaluation and improvement of energy consumption prediction models using principal component analysis based feature reduction*. *Energy Reports*, 7, 239-248. https://doi.org/10.1016/j.egyr.2021.07.086
 
-- **Zhang, Y., Zhou, H., Liang, B., & Shi, W. (2023).** *Forecasting energy consumption in urban environments using Random Forest regression*. *Energy Science & Engineering*. https://doi.org/10.1002/ese3.991
+- Zhang, Y., Zhou, H., Liang, B., & Shi, W. (2023).** *Forecasting energy consumption in urban environments using Random Forest regression*. *Energy Science & Engineering*. https://doi.org/10.1002/ese3.991
