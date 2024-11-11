@@ -39,3 +39,45 @@ The Random Forest model was trained on Texas electricity consumption data from 1
 This study offers a new approach to predicting electricity consumption in the context of climate variability, moving beyond the traditional regression models commonly used in this field. By implementing a Random Forest regression model, the analysis provides a more detailed understanding of the complex relationships between temperature fluctuations, socio-economic factors, and energy consumption. The model's ability to adapt to non-linear interactions allowed it to effectively capture the dynamics of heating degree days (HDD), cooling degree days (CDD), population, and GDP, along with their interactions, which are crucial in contexts with extreme weather variability.
 
 The results demonstrate that the Random Forest model's prediction for 2022 was approximately 36% off from the actual consumption, with a root mean square error (RMSE) of 5.01 million. This deviation reflects the increased electricity demand driven by climate-induced extreme weather events. The actual 2022 consumption was 13.78 million units, compared to the predicted 8.77 million units, underscoring how climate-driven temperature extremes, beyond historical norms, can significantly impact energy needs. Although even advanced models like Random Forest face challenges in accounting for unprecedented climate events, they still represent a substantial improvement over linear models by better incorporating the
+
+## Bibliography
+
+- Chang, Pei-Chann, Fan, Chin-Yuan, Lin, Jyun-Jie. (2011). *Monthly electricity demand forecasting based on a weighted evolving fuzzy neural network approach*. International Journal of Electrical Power & Energy Systems. https://doi.org/10.1016/J.IJEPES.2010.08.008
+
+- Marquardt, D. (1980). *Comment: You Should Standardize the Predictor Variables in Your Regression Models*. [Missing journal information]. https://doi.org/10.1080/01621459.1980.10477430
+
+- Perifanis, Theodosios. (2021). *Forecasting energy demand with econometrics*. [Missing journal information]. https://doi.org/10.1016/B978-0-12-821838-9.00001-3
+
+- Wang, Yuanyuan, Wang, Jianzhou, Zhao, Ge, Dong, Yao. (2012). *Application of residual modification approach in seasonal ARIMA for electricity demand forecasting: A case study of China*. Energy Policy. https://doi.org/10.1016/J.ENPOL.2012.05.026
+
+- Mirjat, Nayyar Hussain, Uqaili, Muhammad Aslam, Harijan, Khanji, Walasai, G. D., Mondal, Alam Hossain, Sahin, Hasret. (2018). *Long-term electricity demand forecast and supply side scenarios for Pakistan (2015–2050): A LEAP model application for policy analysis*. Energy. https://doi.org/10.1016/J.ENERGY.2018.10.012
+
+- Günay, M. Erdem. (2016). *Forecasting annual gross electricity demand by artificial neural networks using predicted values of socio-economic indicators and climatic conditions: Case of Turkey*. Energy Policy. https://doi.org/10.1016/J.ENPOL.2015.12.019
+
+- Bianco, Vincenzo, Manca, Oronzio, Nardini, Sergio. (2009). *Electricity consumption forecasting in Italy using linear regression models*. Energy. https://doi.org/10.1016/J.ENERGY.2009.06.034
+
+- Al-Musaylh, Mohanad S., Deo, Ravinesh C., Adamowski, Jan, Li, Yan. (2018). *Short-term electricity demand forecasting with MARS, SVR and ARIMA models using aggregated demand data in Queensland, Australia*. Advanced Engineering Informatics. https://doi.org/10.1016/J.AEI.2017.11.002
+
+- De Felice, Matteo, Alessandri, Andrea, Catalano, Franco. (2015). *Seasonal climate forecasts for medium-term electricity demand forecasting*. Applied Energy. https://doi.org/10.1016/J.APENERGY.2014.10.030
+
+- Kavaklioglu, Kadir. (2011). *Modeling and prediction of Turkey’s electricity consumption using Support Vector Regression*. Applied Energy. https://doi.org/10.1016/J.APENERGY.2010.07.021
+
+- O’Brien, Robert M. (2007). *A Caution Regarding Rules of Thumb for Variance Inflation Factors*. [Missing journal information]. https://doi.org/10.1007/S11135-006-9018-6
+
+- Staffell, Iain, Pfenninger, Stefan. (2018). *The increasing impact of weather on electricity supply and demand*. Energy. https://doi.org/10.1016/J.ENERGY.2017.12.051
+
+- Isaac, Morna, van Vuuren, Detlef P. (2009). *Modeling global residential sector energy demand for heating and air conditioning in the context of climate change*. Energy Policy. https://doi.org/10.1016/J.ENPOL.2008.09.051
+
+- Pryor, Sara C., Barthelmie, Rebecca Jane. (2010). *Climate change impacts on wind energy: A review*. Renewable & Sustainable Energy Reviews. https://doi.org/10.1016/J.RSER.2009.07.028
+
+- Sailor, David J., Pavlova, A.A. (2003). *Air conditioning market saturation and long-term response of residential cooling energy demand to climate change*. Energy. https://doi.org/10.1016/S0360-5442(03)00033-1
+
+- Sailor, David J., Muñoz, J. Ricardo. (1997). *Sensitivity of electricity and natural gas consumption to climate in the U.S.A.—Methodology and results for eight states*. Energy. https://doi.org/10.1016/S0360-5442(97)00034-0
+
+- Segal, M., Shafir, H., Mandel, M., Alpert, P., Balmor, Y. (1992). *Climatic-related Evaluations of the Summer Peak-Hours’ Electric Load in Israel*. [Missing journal information]. https://doi.org/10.1175/1520-0450(1992)031<1492:CREOTS>2.0.CO;2
+
+- Considine, Timothy J. (2001). *The Impacts of Weather Variations on Energy Demand and Carbon Emissions*. Social Science Research Network. [No DOI available]
+
+- **Parhizkar, A., Ashouri, M., Ahmadi, G., & Saeed, S. (2021).** *Evaluation and improvement of energy consumption prediction models using principal component analysis based feature reduction*. *Energy Reports*, 7, 239-248. https://doi.org/10.1016/j.egyr.2021.07.086
+
+- **Zhang, Y., Zhou, H., Liang, B., & Shi, W. (2023).** *Forecasting energy consumption in urban environments using Random Forest regression*. *Energy Science & Engineering*. https://doi.org/10.1002/ese3.991
