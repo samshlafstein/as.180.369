@@ -2,17 +2,24 @@ name: econark
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
-  - jupyterlab
-  - jupyterlab-myst
-  - econ-ark
-  - sympy
-  - pandas
-  - matplotlib
-  - ipywidgets
-  - seaborn
-  - pandas-datareader
-  - statsmodels
-  - linearmodels
-  - tqdm
+  - econ-ark=0.14.0
+  - ipywidgets=8.1.2
+  - jupyterlab=4.1.2
+  - jupyterlab-myst=2.3.1
+  - linearmodels=5.4
+  - matplotlib=3.8.3
+  - matplotlib-base=3.8.3
+  - matplotlib-inline=0.1.6
+  - pandas=2.2.1
+  - pandas-datareader=0.10.0
+  - python=3.11.8
+  - python-dateutil=2.8.2
+  - python-fastjsonschema=2.19.1
+  - python-json-logger=2.0.7
+  - python-tzdata=2024.1
+  - seaborn=0.13.2
+  - seaborn-base=0.13.2
+  - statsmodels=0.14.1
+  - sympy=1.12
+  - tqdm=4.66.2v
 prefix: /home/idies/mambaforge/envs/econark
