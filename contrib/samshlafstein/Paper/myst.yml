@@ -11,7 +11,7 @@ project:
   authors:
     - name: Sam Shlafstein
   bibliography:
-    - references.bib
+    - 08_references.bib
   exports:
   - format: pdf
     template: arxiv_nips
