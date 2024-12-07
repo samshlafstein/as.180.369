@@ -1,0 +1,18 @@
+version: 1
+site:
+  template: article-theme
+  title: Analyzing the Impact of Extreme Weather Events on Electricity Consumption in Texas Using Random Forests
+  subtitle: 180.369
+  short_title: 2024
+  authors:
+    - name: Sam Shlafstein
+project:
+  title: Research Paper
+  authors:
+    - name: Sam Shlafstein
+  bibliography:
+    - references.bib
+  exports:
+  - format: pdf
+    template: arxiv_nips
+    output: samshlafstein_180.369_paper.pdf
