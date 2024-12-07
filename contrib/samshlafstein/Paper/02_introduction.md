@@ -1,4 +1,4 @@
-**Literature Review**
+**Introduction**
 
 Previous literature has extensively examined the effects of climate change on energy consumption, often using metrics like cooling degree days (CDD) and heating degree days (HDD) to assess variations in heating and cooling needs based on baseline temperatures. Rising global temperatures and increasing climate variability have been shown to drive heightened demand for cooling during warmer months and, in some instances, heating during colder months. Texas, with its independent energy grid managed by the Electric Reliability Council of Texas (ERCOT) and its susceptibility to extreme weather events, provides a unique case for studying the impacts of climate variability on energy consumption.
 
