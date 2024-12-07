@@ -18,6 +18,3 @@
 
 :::{include} 07_conclusion.md
 :::
-
-:::{include} 08_references.bib
-:::
