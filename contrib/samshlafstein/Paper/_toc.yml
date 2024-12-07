@@ -10,4 +10,3 @@ parts:
       - file: 05_randomforest
       - file: 06_results
       - file: 07_conclusion
-      - file: 08_references
