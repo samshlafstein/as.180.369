@@ -7,7 +7,7 @@
 :::{include} 03_literature.md
 :::
 
-:::{include} 04_methods.ipynb
+:::{include} 04_methods.md
 :::
 
 :::{include} 05_randomforest.ipynb
