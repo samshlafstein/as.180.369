@@ -1,0 +1,7 @@
+This study examines the impact of climate-induced weather on electricity consumption in Texas using a Random Forest regression model. It compares historical data from 1960 to 1980 with actual values from 2022. The analysis incorporates socio-economic and climatic variables, including heating degree days (HDD), cooling degree days (CDD), population, GDP, and a time trend as key predictors. 
+
+Data on electricity consumption, population, and GDP were obtained from the U.S. Energy Information Administration (EIA), and HDD and CDD were calculated using a base temperature of 65.3°F. The dataset is divided into training data from 1960 to 1980, which serves as the baseline period, and testing data from 2022, reflecting current climatic and socio-economic conditions. 
+
+The model is trained on the historical data to establish relationships between the predictors and electricity consumption, and these relationships are applied to predict energy consumption for 2022. The inclusion of a time trend feature enhances the model's ability to capture long-term changes in electricity demand. 
+
+The analysis concludes with visualizations that compare actual and predicted energy consumption. It highlights the significance of key variables in explaining variations in demand and provides a comprehensive understanding of how climate variability and socio-economic changes influence electricity consumption in Texas.
